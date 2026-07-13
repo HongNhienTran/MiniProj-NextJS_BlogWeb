@@ -10,7 +10,7 @@ export default async function PostDetailPage({ params }: Props) {
     const post = MOCK_POSTS.find((p) => p.slug === slug);
 
     if (!post) {
-        notFound(); // Trả về trang 404 nếu không tìm thấy slug
+        notFound(); 
     }
 
     return (
