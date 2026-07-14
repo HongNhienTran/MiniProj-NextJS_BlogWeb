@@ -41,7 +41,7 @@ export default function CategoriesPage() {
         onClearFilters={handleClearFilters}
       />
       {filteredPosts.length > 0 ? (
-        <div className="grid gap-6 md:grid-cols-2">
+        <div className="grid gap-6 md:grid-cols-3">
           {filteredPosts.map((post) => (
             <BlogCard key={post.id} post={post} />
           ))}
