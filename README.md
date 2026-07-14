@@ -4,7 +4,7 @@ Một dự án Web Blog đơn giản được xây dựng với mục đích ngh
 ---
 ## 🌐 Live Demo
 Dự án hiện đã được deploy trực tiếp trên **Vercel**. Bạn có thể truy cập và trải nghiệm giao diện thực tế tại đây:
-👉 **[Tên-Dự-Án-Của-Bạn.vercel.app](https://mini-blog-swart-pi.vercel.app/)
+👉 https://mini-blog-swart-pi.vercel.app 
 
 ## 📌 Mục Tiêu Dự Án (Project Purpose)
 
